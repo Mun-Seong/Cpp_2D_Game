@@ -1,0 +1,8 @@
+﻿  DemoApp.cpp
+C:\Users\moons\OneDrive\바탕 화면\수업 자료\22-1 게임프로그래밍\HW4_201601589(서문성)\HW4_201601589(서문성)\DemoApp.cpp(363,15): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\moons\OneDrive\바탕 화면\수업 자료\22-1 게임프로그래밍\HW4_201601589(서문성)\HW4_201601589(서문성)\DemoApp.cpp(364,16): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\moons\OneDrive\바탕 화면\수업 자료\22-1 게임프로그래밍\HW4_201601589(서문성)\HW4_201601589(서문성)\DemoApp.cpp(541,40): warning C4459: 'apos' 선언은 전역 선언을 숨깁니다.
+C:\Users\moons\OneDrive\바탕 화면\수업 자료\22-1 게임프로그래밍\HW4_201601589(서문성)\HW4_201601589(서문성)\DemoApp.cpp(7,15): message : 'apos' 선언을 참조하십시오.
+C:\Users\moons\OneDrive\바탕 화면\수업 자료\22-1 게임프로그래밍\HW4_201601589(서문성)\HW4_201601589(서문성)\DemoApp.cpp(541,60): warning C4459: 'pos' 선언은 전역 선언을 숨깁니다.
+C:\Users\moons\OneDrive\바탕 화면\수업 자료\22-1 게임프로그래밍\HW4_201601589(서문성)\HW4_201601589(서문성)\DemoApp.cpp(6,15): message : 'pos' 선언을 참조하십시오.
+  DemoApp.vcxproj -> C:\Users\moons\OneDrive\바탕 화면\수업 자료\22-1 게임프로그래밍\HW4_201601589(서문성)\HW4_201601589(서문성)\Debug\DemoApp.exe
